@@ -1,5 +1,6 @@
 ### Hi there 👋
 I'm Dave! I enjoy outputting clean and reusable code!
+
 <a href="https://github.com/verebes1">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=verebes1&theme=github_dark&count_private=true&show_icons=true" />
 </a>
