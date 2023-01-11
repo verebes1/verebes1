@@ -1,9 +1,13 @@
-<a href="https://github.com/verebes1">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=verebes1&theme=github_dark&count_private=true&show_icons=true" />
-</a>
-<a href="https://github.com/verebes1">
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verebes1&langs_count=8&theme=github_dark&layout=standard" />
-</a>
+### 📈 GitHub Stats
+
+<p align="center">
+  <table>
+  <tr>
+      <td><img width="550px" align="left" src="https://github-readme-stats.vercel.app/api?username=verebes1&hide_border=true&count_private=true&layout=compact&hide_title=true&show_icons=true&theme=github_dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verebes1&layout=compact&langs_count=6&hide_border=true&hide_title=true&theme=github_dark&icon_color=5194f0&bg_color=0d1117" /></td>
+  </tr>   
+</table>
+</p>
 
 <!--
 **verebes1/verebes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
