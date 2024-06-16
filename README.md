@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
+</p>
+
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F780&random=false&width=435&lines=Hi%2C+my+name+is+Dave;I+am+a+Software+Engineer;and+a+Security+enthusiast;or+in+short+a+Nerd)
 
 [Credly profile](https://www.credly.com/users/david-verbenyi)
@@ -31,3 +35,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
