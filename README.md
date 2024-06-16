@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&text=Welcome!&height=100&section=header"/>
 </p>
 
-![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F780&random=false&width=435&lines=Hi%2C+my+name+is+Dave;I+am+a+Software+Engineer;and+a+Security+enthusiast;or+in+short+a+Nerd)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F780&random=false&width=435&lines=Hi%2C+my+name+is+Dave;I+am+a+Software+Engineer;and+a+Security+enthusiast;or+in+short+a+Nerd+%3A\))](https://verbenyi.com) 
 
 [Credly profile](https://www.credly.com/users/david-verbenyi)
 
