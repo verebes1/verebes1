@@ -9,6 +9,7 @@
 </table>
 </p>
 
+![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=verebes1&theme=dark&background=000000)
 <!--
 **verebes1/verebes1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
