@@ -1,4 +1,7 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F780&random=false&width=435&lines=Hi%2C+my+name+is+Dave;I+am+a+Software+Engineer;and+a+Security+enthusiast;or+in+short+a+Nerd)
+
+[Credly profile](https://www.credly.com/users/david-verbenyi)
+
 ### 📈 GitHub Stats
 
 <p align="center">
