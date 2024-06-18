@@ -5,6 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=22F780&random=false&width=435&lines=Hi%2C+my+name+is+Dave;I+am+a+Software+Engineer;and+a+Security+enthusiast;or+in+short+a+Nerd+%3A\))](https://verbenyi.com) 
 
 [Credly profile](https://www.credly.com/users/david-verbenyi)
+[Scrum.org - profile](https://www.scrum.org/user/994130)
 
 Some of my latest certifications
 - [Senior SOC Analyst 1](https://www.virtualbadge.io/certificate-validator?credential=6215c02c-8e6c-44ff-b6e7-9f1b5a8bfc0a)
