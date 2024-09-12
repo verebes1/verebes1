@@ -8,6 +8,7 @@
 [Scrum.org - profile](https://www.scrum.org/user/994130)
 
 Some of my latest certifications
+- [Junior Penetration Tester](https://www.virtualbadge.io/certificate-validator?credential=11759fc2-421a-4347-bd54-aed3f357cd7e)
 - [Senior SOC Analyst 1](https://www.virtualbadge.io/certificate-validator?credential=6215c02c-8e6c-44ff-b6e7-9f1b5a8bfc0a)
 - [IoT Security Practitioner](https://www.virtualbadge.io/certificate-validator?credential=f1e3a613-7574-4dd0-ac89-166b661d6dc5)
 
