@@ -17,7 +17,7 @@ Some of my latest certifications
 <p align="center">
   <table>
   <tr>
-      <td><img width="550px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=verebes1&layout=compact&langs_count=6&hide_border=true&hide_title=true&theme=github_dark&icon_color=5194f0&bg_color=0d1117" /></td>
+      <td><img width="550px" src="https://github-stats-extended.vercel.app/api/top-langs/?username=verebes1&layout=compact&langs_count=6&hide_border=true&hide_title=true&theme=github_dark&icon_color=5194f0&bg_color=0d1117" /></td>
   </tr>   
 </table>
 </p>
